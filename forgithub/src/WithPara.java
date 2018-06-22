@@ -9,7 +9,7 @@ public class WithPara {
         public static void main(String[] args) {
 
             WithPara hello = new WithPara();
-            String welcome = hello.show("慕课网");
+            String welcome = hello.show("爱慕课");
             System.out.println(welcome);
         }
         private String show(String name){
