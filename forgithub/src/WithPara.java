@@ -14,6 +14,11 @@ public class WithPara {
         }
         private String show(String name){
             return "欢迎您, "+name+"!";
+	}
+	    WithPara fourth = new WithPara();
+	    String four = fourth.show("Susi");
+	    System.out.println(four);
+	
         }
     }
 
