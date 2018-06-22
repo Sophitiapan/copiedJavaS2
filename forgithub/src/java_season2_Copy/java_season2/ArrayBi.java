@@ -6,7 +6,7 @@ package java_season2_Copy.java_season2;
  * Time: 2018/5/11 14:39
  * Description: 6-9
  */
-public class ArrayBi {
+/*public class ArrayBi {
     public static void main(String[] args){
         String[][] names = {{"tom","jack","mike"},{"zhangsan","lisi","wangwu"}};
         for(int i = 0;i<names.length;i++){
@@ -19,3 +19,4 @@ public class ArrayBi {
         }
     }
 }
+*/
