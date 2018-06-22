@@ -11,14 +11,18 @@ public class WithPara {
             WithPara hello = new WithPara();
             String welcome = hello.show("爱慕课");
             System.out.println(welcome);
-        }
-        private String show(String name){
-            return "欢迎您, "+name+"!";
-	}
-	    WithPara fourth = new WithPara();
-	    String four = fourth.show("Susi");
-	    System.out.println(four);
-	
-        }
+
+
+            WithPara fourth = new WithPara();
+            String four = fourth.show("Susi");
+            System.out.println(four);}
+
+            private String show(String name) {
+            return "欢迎您, " + name + "!";
     }
+    }
+
+
+
+
 
